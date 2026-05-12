@@ -1,0 +1,33 @@
+<!DOCTYPE html>
+<html lang="pt-BR">
+<head>
+    <meta charset="UTF-8">
+    <title>NovaTech Solutions</title>
+</head>
+
+<body style="background-color: lightgray; font-family: Arial;">
+
+    <h1 style="color: blue; text-align: center;">
+        NovaTech Solutions
+    </h1>
+
+    <p style="font-size:18px;">
+        A NovaTech Solutions é uma empresa especializada em tecnologia,
+        desenvolvimento de software e soluções digitais para empresas.
+    </p>
+
+    <h2 style="color: darkblue;">Navegação</h2>
+
+    <ul style="font-size:18px;">
+        <li><a href="empresa.html">Sobre a Empresa</a></li>
+        <li><a href="servicos.html">Nossos Serviços</a></li>
+        <li><a href="equipe.html">Nossa Equipe</a></li>
+        <li><a href="contato.html">Contato</a></li>
+    </ul>
+
+    <img src="empresa.jpg"
+         alt="Imagem da empresa"
+         style="width:300px;">
+
+</body>
+</html>
